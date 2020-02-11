@@ -1,0 +1,206 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Treinamento
+</name>
+</assembly>
+<members>
+<member name="T:Treinamento.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources._126327">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources._1263271">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources._13927">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources._139271">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources._1486564399_close_81512__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources._1486564399_close_81512__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources._43727">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources._437271">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources._4f3bb538bab4706f073a821136128361___cone_de_tra__o_colorido_no_local_do_mapa_by_vexels">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources._4f3bb538bab4706f073a821136128361___cone_de_tra__o_colorido_no_local_do_mapa_by_vexels__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.cadastro_icon_png">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.cadastro_icon_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.calendario_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.calendario_removebg_preview__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.download_removebg_preview__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.download_removebg_preview__1___1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.icon_livros">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.icone_pessoa_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.icone_pessoa_removebg_preview1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.kisspng_bookcase_computer_icons_shelf_download_clip_art_5b37ecb57f8bf9_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.kisspng_bookcase_computer_icons_shelf_download_clip_art_5b37ecb57f8bf9_removebg_preview__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.kisspng_computer_icons_magazine_clip_art_magazine_5ac4529d28cbc2_removebg_preview__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.kisspng_computer_icons_the_book_thief_stress_free_5b46f388640464_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.kisspng_computer_icons_the_book_thief_stress_free_5b46f388640464_removebg_preview__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.kisspng_user_interface_design_computer_icons_default_stephen_salazar_photography_5b1462e1b19d70_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.kisspng_user_interface_design_computer_icons_default_stephen_salazar_photography_5b1462e1b19d70_removebg_preview__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.pngtree_bookcase_icon_with_outline_style__vector_eps10_illustration_png_image_878720_removebg_preview__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.return_book">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.return_book1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.unnamed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.unnamed1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.unnamed32424">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.unnamed324241">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.unnamed3434">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Treinamento.My.Resources.Resources.unnamed34341">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
